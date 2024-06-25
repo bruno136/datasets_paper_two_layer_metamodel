@@ -1,4 +1,4 @@
-﻿S.number;FA (%);SF (%);TCM(kg/m3);ssa(kg/m3);ca(kg/m3);W(lt/m3);HRWRA(lt/m3);Age(days);fc (MPa)
+﻿S.number;FA(%);SF(%);TCM(kg/m3);ssa(kg/m3);ca(kg/m3);W(lt/m3);HRWRA(lt/m3);Age(days);fc(MPa)
 1;0;0;500;724;1086;150;7.5;3;64.9
 2;0;0;500;724;1086;150;7.5;7;75.5
 3;0;0;500;724;1086;150;7.5;28;86.8
